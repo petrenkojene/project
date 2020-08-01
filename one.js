@@ -6,6 +6,3 @@ console.log(!number);
 alert(number);
 let number = true;
 console.log(!number);
-alert(number);\
-llk;
-ljg
